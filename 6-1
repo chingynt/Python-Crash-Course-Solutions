@@ -1,0 +1,13 @@
+personal_info = {
+    "first_names" : "Kwadwo Asare",
+    "last_name" : "Owusu",
+    "age" : 32,
+    "city" : "Limerick",
+    "country" : "Ireland"
+}
+
+print(personal_info["first_names"]);
+print(personal_info["last_name"]);
+print(personal_info["age"]);
+print(personal_info["city"]);
+print(personal_info["country"]);
